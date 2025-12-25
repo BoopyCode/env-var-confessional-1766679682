@@ -1,0 +1,15 @@
+{
+  "name": "env-confessional",
+  "version": "1.0.0",
+  "description": "Interrogate environment variables before they betray you",
+  "main": "env-confessional.js",
+  "bin": {
+    "env-confess": "./env-confessional.js"
+  },
+  "scripts": {
+    "start": "node env-confessional.js"
+  },
+  "keywords": ["env", "variables", "debugging", "confession"],
+  "author": "Your Name",
+  "license": "MIT"
+}
